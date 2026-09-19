@@ -1,0 +1,8 @@
+# Runtime files are created under %LOCALAPPDATA% and must never enter Git.
+config.json
+secret.bin
+AutoLogin.log
+AutoLogin.log.old
+
+# Local archives and scratch files.
+*.zip
